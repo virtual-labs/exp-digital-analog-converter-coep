@@ -12,12 +12,11 @@
 4. Execute the simulation by pressing the run button.
 5. Repeat the procedure and observe the result for the other digital inputs.
 
-
 **ADC procedure:-**
 
 1. Select the ADC from the tab menu.
 2. For ADC select & set appropriate following parameters
-     *Amplitude
+     * Amplitude
      * Frequency
      * Resolution
 
