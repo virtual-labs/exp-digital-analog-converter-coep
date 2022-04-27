@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Accuracy is defined as a",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Minimum output voltage",
+        "b": "The smallest possible change in the output voltage",
+        "c": "Measure of the difference between the actual output voltage and the expected output voltage",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The output if a 2-input gate is 1 if and only if its input are unequal it is true for",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Equal increment in input gives equal increment in output",
+        "b": "Difference between actual output and measure output",
+        "c": "Smallest possible change in the output voltage as a fraction or percentage of full scale output voltage",
+        "d": "Both 1 & 2"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The practical use of binary-weighted digital-to-analog converters is limited to:",
+      "answers": {
+        "a": "R/2R ladder D/A converters",
+        "b": "2-bit D/A converters",
+        "c": "8-bit D/A converters",
+        "d": "4-bit D/A converters"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Resolution is defined as a",
+      "answers": {
+        "a": "Smallest possible change in the output voltage as a fraction or percentage of full scale output voltage.",
+        "b": "Difference between actual output and measure output",
+        "c": "Equal increment in input gives equal increment in output",
+        "d": "Both 1 & 2"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
