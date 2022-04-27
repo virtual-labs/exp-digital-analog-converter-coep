@@ -51,7 +51,7 @@ Where N is the number of voltage intervals and EFSR is the full scale voltage ra
 
 <center><img src="images/img5.JPG" title="" /></center>
 
-Where VRefHi and VRefLow are the upper and lower extremes, respectively, of the voltages that can be coded.
+Where V<sub>RefHi</sub> and VRefLow are the upper and lower extremes, respectively, of the voltages that can be coded.
 Normally, the number of voltage intervals is given by
 
 <center><img src="images/img6.JPG" title="" /></center>
