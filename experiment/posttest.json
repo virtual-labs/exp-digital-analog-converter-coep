@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "2A binary-weighted digital-to-analog converter has an input resistor of 100 k . If the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "500 A",
+        "b": "5 mA",
+        "c": "50 uA",
+        "d": "50 mA"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The difference between analog voltage represented by two adjacent digital codes, or the analog step size, is the:",
+      "answers": {
+        "a": "Accuracy",
+        "b": "Resolution",
+        "c": "Quantization",
+        "d": "None of these"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The resolution of a 0–5 V 6-bit digital-to-analog converter (DAC) is:",
+      "answers": {
+        "a": "1.56%",
+        "b": "63%",
+        "c": "64%",
+        "d": "6.3%"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The number of binary bits at the input of a digital-to-analog converter (DAC) is known as ________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Precision",
+        "b": "Accuracy",
+        "c": "Linearity",
+        "d": "Resolution"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
